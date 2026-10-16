@@ -1,0 +1,9 @@
+Granite Embedding 97M Multilingual R2
+Copyright IBM Corp.
+Licensed under the Apache License, Version 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+
+Source: https://huggingface.co/ibm-granite/granite-embedding-97m-multilingual-r2
+Revision: 835ad14087e140460703cf0fae09f97d469d65c2
+Files, unchanged:
+  model.onnx      = onnx/model_quint8_avx2.onnx  sha256 a6022dd8220ea6f6595562a1328ee216f4a94faa55362f2f4747c80f1e78772e
+  tokenizer.json  = tokenizer.json               sha256 4f2842d568e2724370aec203652a42ac783c7937f8347a1a2cc7506d71f1582f
